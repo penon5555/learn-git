@@ -4,6 +4,7 @@ function Profile() {
   return (
     <div>
       <h1>Non</h1>
+      <h2>Thanapat Wantem</h2>
     </div>
   )
 }
